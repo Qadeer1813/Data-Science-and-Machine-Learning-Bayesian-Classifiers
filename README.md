@@ -6,21 +6,24 @@
 
 **Lecture: Greg Doyle**
 
-**Bayesian Classifier**
+**Naive Bayes Classifier**
 
 # Project Description
 The purpose of this project is to predict whether a loan application should be approved or rejected based on the applicants details in this dataset
 
 # Data Source
 The dataset that was used for this project can be downloaded from https://archive.ics.uci.edu/dataset/2/adult
+
 # Data
 
 # Processing
 
-
 # Data Understanding and Visualisation 
 
 # Algorithims:
+Gaussian Bayes Classifier:
+
+MultiNomial Bayes Classifier:
 
 # Online Sources:
 1. User guide# (2024) User Guide - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/user_guide/index.html (Accessed: Jan 2025).
@@ -30,8 +33,8 @@ The dataset that was used for this project can be downloaded from https://archiv
 
 # Tools and Tech Used: 
 1. Jupter Notebook
-2. Decision Tree
-3. Random Forest
+2. Gaussian Bayes Classifier
+3. MultiNomial Bayes Classifiers 
 4. Pandas Library - Loading the data and analysing it
 5. Matplotlib - Plotting and Visualising the graph 
-6. Scikit Learn(Sklearn) - Implementing linear regression model.
+6. Scikit Learn(Sklearn) - Implementing Gaussian Bayes Classifier & MultiNomial Bayes Classifier.
