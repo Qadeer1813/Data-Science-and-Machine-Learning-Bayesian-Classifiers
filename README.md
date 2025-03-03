@@ -50,9 +50,9 @@ After processing the data and fitting it to the Gaussian Bayes and MultiNomial B
    ![image](https://github.com/user-attachments/assets/b49a0eec-ff5a-4c27-b21e-b3d62952e34a)
 
 # Algorithims:
-Gaussian Bayes Classifier:
+Gaussian Bayes Classifier: This is a supervised machine learning algorithm that assumes the features follow a normal (Gaussian) distribution. It was used in the code to classify income levels based on continuous numerical and categorical data.
 
-MultiNomial Bayes Classifier:
+MultiNomial Bayes Classifier: This is a supervised machine learning algorithm typically used for categorical or count-based data. It was used in the code to improve classification performance.
 
 # Online Sources:
 1. User guide# (2024) User Guide - pandas 2.2.3 documentation. Available at: https://pandas.pydata.org/docs/user_guide/index.html (Accessed: Jan 2025).
