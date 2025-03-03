@@ -63,7 +63,8 @@ MultiNomial Bayes Classifier:
 # Tools and Tech Used: 
 1. Jupter Notebook
 2. Gaussian Bayes Classifier
-3. MultiNomial Bayes Classifiers 
-4. Pandas Library - Loading the data and analysing it
-5. Matplotlib - Plotting and Visualising the graph 
-6. Scikit Learn(Sklearn) - Implementing Gaussian Bayes Classifier & MultiNomial Bayes Classifier.
+3. MultiNomial Bayes Classifiers
+4. Numpy
+5. Pandas Library - Loading the data and analysing it
+6. Matplotlib - Plotting and Visualising the graph 
+7. Scikit Learn(Sklearn) - Implementing Gaussian Bayes Classifier & MultiNomial Bayes Classifier.
